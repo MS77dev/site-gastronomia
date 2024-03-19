@@ -1,0 +1,31 @@
+@charset "UTF-8";
+
+body {
+    background-color: #f1e9c3;
+}
+p{
+    color: rgba(41, 19, 119, 0.795);
+    font-size: 20px;
+    text-align: justify;
+}
+h1{
+    background-color:rgba(95, 75, 8, 0.616);
+    text-align: center;
+    color: rgba(31, 14, 94, 0.808);
+    font-size: 50px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+h2{
+    color: rgba(41, 19, 119, 0.795);
+    background-color: rgba(109, 93, 40, 0.397) ;
+}
+
+h3{
+    color: rgba(41, 19, 119, 0.795);
+}
+li{
+    color: rgba(41, 19, 119, 0.795);
+}
+#video{
+    text-align: center;
+}
